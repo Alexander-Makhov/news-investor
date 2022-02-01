@@ -1,0 +1,2 @@
+# news-investor
+WP Theme
