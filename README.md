@@ -1,2 +1,2 @@
-# news-investor
-WP Theme
+# news4investor
+news4investor
